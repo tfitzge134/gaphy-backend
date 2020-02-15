@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Gif",
+    "documents": [
+      {
+        "name": "dance party cat GIF",
+        "url": "https://media1.giphy.com/media/WXB88TeARFVvi/giphy.gif?cid=e3b0c4420620f2e36105961f2ec4060f51ee3f15e271a061&rid=giphy.gif"
+      },
+      {
+        "name": "funny cat GIF",
+        "url": "https://media2.giphy.com/media/gm3Z05VsyZsFG/giphy.gif?cid=e3b0c4420620f2e36105961f2ec4060f51ee3f15e271a061&rid=giphy.gif"
+      },
+      {
+        "name": "photobucket.com",
+        "url": "https://media2.giphy.com/media/mlvseq9yvZhba/giphy.gif?cid=e3b0c4420620f2e36105961f2ec4060f51ee3f15e271a061&rid=giphy.gif"
+      },
+      {
+        "name": "Cat Fail GIF by moodman",
+        "url": "https://media3.giphy.com/media/JoDT2WaykzFnN9vJqL/giphy.gif?cid=e3b0c4420620f2e36105961f2ec4060f51ee3f15e271a061&rid=giphy.gif"
+      }
+    ]
+  }
+]
